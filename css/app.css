@@ -1,6 +1,10 @@
 .text-right {
   text-align: right;
 }
+
+.at-input input {
+  text-align: right;
+}
 @charset "UTF-8";
 /**
  * Default Theme
